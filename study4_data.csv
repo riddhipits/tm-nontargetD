@@ -1,0 +1,841 @@
+,PID,status,blockorder,condition_1,Zone.Type,ratings,condition_2,samplegroup
+150,6067091,complete,ENS,Empty_Positive,response_slider_endValue,7,empty 72 positive,82781
+246,6067091,complete,ENS,Empty_Positive,response_slider_endValue,1,empty 16 positive,82781
+400,6067172,complete,ENS,Empty_Positive,response_slider_endValue,8,empty 72 positive,82781
+496,6067172,complete,ENS,Empty_Positive,response_slider_endValue,8,empty 16 positive,82781
+594,6067702,complete,ENS,Empty_Positive,response_slider_endValue,9,empty 16 positive,82781
+746,6067702,complete,ENS,Empty_Positive,response_slider_endValue,5,empty 72 positive,82781
+900,6067740,complete,ENS,Empty_Positive,response_slider_endValue,5,empty 72 positive,82781
+996,6067740,complete,ENS,Empty_Positive,response_slider_endValue,-5,empty 16 positive,82781
+1094,6067939,complete,ENS,Empty_Positive,response_slider_endValue,5,empty 16 positive,82781
+1246,6067939,complete,ENS,Empty_Positive,response_slider_endValue,3,empty 72 positive,82781
+1400,11485999,complete,ENS,Empty_Positive,response_slider_endValue,7,empty 72 positive,82781
+1496,11485999,complete,ENS,Empty_Positive,response_slider_endValue,7,empty 16 positive,82781
+1594,11485998,complete,ENS,Empty_Positive,response_slider_endValue,2,empty 16 positive,82781
+1746,11485998,complete,ENS,Empty_Positive,response_slider_endValue,2,empty 72 positive,82781
+1844,11485990,complete,ENS,Empty_Positive,response_slider_endValue,8,empty 16 positive,82781
+1996,11485990,complete,ENS,Empty_Positive,response_slider_endValue,7,empty 72 positive,82781
+2150,11486015,complete,ENS,Empty_Positive,response_slider_endValue,-5,empty 72 positive,82781
+2246,11486015,complete,ENS,Empty_Positive,response_slider_endValue,4,empty 16 positive,82781
+2344,11486039,complete,ENS,Empty_Positive,response_slider_endValue,5,empty 16 positive,82781
+2496,11486039,complete,ENS,Empty_Positive,response_slider_endValue,4,empty 72 positive,82781
+2650,11486198,complete,ENS,Empty_Positive,response_slider_endValue,7,empty 72 positive,82781
+2746,11486198,complete,ENS,Empty_Positive,response_slider_endValue,8,empty 16 positive,82781
+94,6067103,complete,NSE,Empty_Positive,response_slider_endValue,4,empty 16 positive,82781
+2461,6067103,complete,NSE,Empty_Positive,response_slider_endValue,3,empty 72 positive,82781
+344,6067686,complete,NSE,Empty_Positive,response_slider_endValue,10,empty 16 positive,82781
+4961,6067686,complete,NSE,Empty_Positive,response_slider_endValue,10,empty 72 positive,82781
+650,6067705,complete,NSE,Empty_Positive,response_slider_endValue,2,empty 72 positive,82781
+7461,6067705,complete,NSE,Empty_Positive,response_slider_endValue,6,empty 16 positive,82781
+9001,6067920,complete,NSE,Empty_Positive,response_slider_endValue,-8,empty 72 positive,82781
+9961,6067920,complete,NSE,Empty_Positive,response_slider_endValue,5,empty 16 positive,82781
+1150,6080138,complete,NSE,Empty_Positive,response_slider_endValue,4,empty 72 positive,82781
+12461,6080138,complete,NSE,Empty_Positive,response_slider_endValue,5,empty 16 positive,82781
+14001,11486031,complete,NSE,Empty_Positive,response_slider_endValue,7,empty 72 positive,82781
+14961,11486031,complete,NSE,Empty_Positive,response_slider_endValue,7,empty 16 positive,82781
+15941,11486053,complete,NSE,Empty_Positive,response_slider_endValue,7,empty 16 positive,82781
+17461,11486053,complete,NSE,Empty_Positive,response_slider_endValue,8,empty 72 positive,82781
+18441,11486011,complete,NSE,Empty_Positive,response_slider_endValue,8,empty 16 positive,82781
+19961,11486011,complete,NSE,Empty_Positive,response_slider_endValue,-7,empty 72 positive,82781
+2094,11486010,complete,NSE,Empty_Positive,response_slider_endValue,6,empty 16 positive,82781
+22461,11486010,complete,NSE,Empty_Positive,response_slider_endValue,5,empty 72 positive,82781
+23441,11486056,complete,NSE,Empty_Positive,response_slider_endValue,9,empty 16 positive,82781
+24961,11486056,complete,NSE,Empty_Positive,response_slider_endValue,8,empty 72 positive,82781
+2594,11486201,complete,NSE,Empty_Positive,response_slider_endValue,4,empty 16 positive,82781
+27461,11486201,complete,NSE,Empty_Positive,response_slider_endValue,4,empty 72 positive,82781
+1501,6067110,complete,ESN,Empty_Positive,response_slider_endValue,4,empty 72 positive,82781
+2462,6067110,complete,ESN,Empty_Positive,response_slider_endValue,7,empty 16 positive,82781
+4001,6067617,complete,ESN,Empty_Positive,response_slider_endValue,2,empty 72 positive,82781
+4962,6067617,complete,ESN,Empty_Positive,response_slider_endValue,3,empty 16 positive,82781
+5941,11485988,complete,ESN,Empty_Positive,response_slider_endValue,8,empty 16 positive,82781
+7462,11485988,complete,ESN,Empty_Positive,response_slider_endValue,6,empty 72 positive,82781
+844,11486012,complete,ESN,Empty_Positive,response_slider_endValue,4,empty 16 positive,82781
+9962,11486012,complete,ESN,Empty_Positive,response_slider_endValue,3,empty 72 positive,82781
+11501,11486040,complete,ESN,Empty_Positive,response_slider_endValue,5,empty 72 positive,82781
+12462,11486040,complete,ESN,Empty_Positive,response_slider_endValue,7,empty 16 positive,82781
+1344,6067865,complete,ESN,Empty_Positive,response_slider_endValue,6,empty 16 positive,82781
+14962,6067865,complete,ESN,Empty_Positive,response_slider_endValue,3,empty 72 positive,82781
+1650,11486019,complete,ESN,Empty_Positive,response_slider_endValue,2,empty 72 positive,82781
+17462,11486019,complete,ESN,Empty_Positive,response_slider_endValue,7,empty 16 positive,82781
+1900,11486036,complete,ESN,Empty_Positive,response_slider_endValue,7,empty 72 positive,82781
+19962,11486036,complete,ESN,Empty_Positive,response_slider_endValue,4,empty 16 positive,82781
+21501,6068488,complete,ESN,Empty_Positive,response_slider_endValue,-7,empty 72 positive,82781
+22462,6068488,complete,ESN,Empty_Positive,response_slider_endValue,-10,empty 16 positive,82781
+2400,11486194,complete,ESN,Empty_Positive,response_slider_endValue,6,empty 72 positive,82781
+24962,11486194,complete,ESN,Empty_Positive,response_slider_endValue,7,empty 16 positive,82781
+1502,6067181,complete,NES,Trash_Single_Positive,response_slider_endValue,-5,single 72 positive,82781
+2463,6067181,complete,NES,Trash_Single_Positive,response_slider_endValue,-7,single 16 positive,82781
+4002,6067676,complete,NES,Trash_Single_Positive,response_slider_endValue,5,single 72 positive,82781
+4963,6067676,complete,NES,Trash_Single_Positive,response_slider_endValue,8,single 16 positive,82781
+6501,6067969,complete,NES,Trash_Single_Positive,response_slider_endValue,1,single 72 positive,82781
+7463,6067969,complete,NES,Trash_Single_Positive,response_slider_endValue,8,single 16 positive,82781
+8441,6070088,complete,NES,Trash_Single_Positive,response_slider_endValue,10,single 16 positive,82781
+9963,6070088,complete,NES,Trash_Single_Positive,response_slider_endValue,-9,single 72 positive,82781
+10941,11486000,complete,NES,Trash_Single_Positive,response_slider_endValue,8,single 16 positive,82781
+12463,11486000,complete,NES,Trash_Single_Positive,response_slider_endValue,7,single 72 positive,82781
+14002,11486023,complete,NES,Trash_Single_Positive,response_slider_endValue,5,single 72 positive,82781
+14963,11486023,complete,NES,Trash_Single_Positive,response_slider_endValue,9,single 16 positive,82781
+15942,11486017,complete,NES,Trash_Single_Positive,response_slider_endValue,-1,single 16 positive,82781
+17463,11486017,complete,NES,Trash_Single_Positive,response_slider_endValue,6,single 72 positive,82781
+19001,11486035,complete,NES,Trash_Single_Positive,response_slider_endValue,7,single 72 positive,82781
+19963,11486035,complete,NES,Trash_Single_Positive,response_slider_endValue,9,single 16 positive,82781
+20941,11486025,complete,NES,Trash_Single_Positive,response_slider_endValue,7,single 16 positive,82781
+22463,11486025,complete,NES,Trash_Single_Positive,response_slider_endValue,6,single 72 positive,82781
+1503,6067181,complete,NES,Empty_Positive,response_slider_endValue,-3,empty 72 positive,82781
+2464,6067181,complete,NES,Empty_Positive,response_slider_endValue,-4,empty 16 positive,82781
+3441,6067676,complete,NES,Empty_Positive,response_slider_endValue,7,empty 16 positive,82781
+4964,6067676,complete,NES,Empty_Positive,response_slider_endValue,2,empty 72 positive,82781
+5942,6067969,complete,NES,Empty_Positive,response_slider_endValue,-4,empty 16 positive,82781
+7464,6067969,complete,NES,Empty_Positive,response_slider_endValue,8,empty 72 positive,82781
+9002,6070088,complete,NES,Empty_Positive,response_slider_endValue,9,empty 72 positive,82781
+9964,6070088,complete,NES,Empty_Positive,response_slider_endValue,-10,empty 16 positive,82781
+10942,11486000,complete,NES,Empty_Positive,response_slider_endValue,7,empty 16 positive,82781
+12464,11486000,complete,NES,Empty_Positive,response_slider_endValue,-5,empty 72 positive,82781
+13441,11486023,complete,NES,Empty_Positive,response_slider_endValue,3,empty 16 positive,82781
+14964,11486023,complete,NES,Empty_Positive,response_slider_endValue,4,empty 72 positive,82781
+15943,11486035,complete,NES,Empty_Positive,response_slider_endValue,8,empty 16 positive,82781
+17464,11486035,complete,NES,Empty_Positive,response_slider_endValue,7,empty 72 positive,82781
+19002,11486017,complete,NES,Empty_Positive,response_slider_endValue,1,empty 72 positive,82781
+19964,11486017,complete,NES,Empty_Positive,response_slider_endValue,4,empty 16 positive,82781
+20942,11486025,complete,NES,Empty_Positive,response_slider_endValue,8,empty 16 positive,82781
+22464,11486025,complete,NES,Empty_Positive,response_slider_endValue,6,empty 72 positive,82781
+1504,6067091,complete,ENS,Trash_Single_Positive,response_slider_endValue,2,single 72 positive,82781
+2465,6067091,complete,ENS,Trash_Single_Positive,response_slider_endValue,-2,single 16 positive,82781
+4003,6067172,complete,ENS,Trash_Single_Positive,response_slider_endValue,5,single 72 positive,82781
+4965,6067172,complete,ENS,Trash_Single_Positive,response_slider_endValue,5,single 16 positive,82781
+6502,6067702,complete,ENS,Trash_Single_Positive,response_slider_endValue,3,single 72 positive,82781
+7465,6067702,complete,ENS,Trash_Single_Positive,response_slider_endValue,2,single 16 positive,82781
+8442,6067740,complete,ENS,Trash_Single_Positive,response_slider_endValue,6,single 16 positive,82781
+9965,6067740,complete,ENS,Trash_Single_Positive,response_slider_endValue,-1,single 72 positive,82781
+10943,6067939,complete,ENS,Trash_Single_Positive,response_slider_endValue,-7,single 16 positive,82781
+12465,6067939,complete,ENS,Trash_Single_Positive,response_slider_endValue,-3,single 72 positive,82781
+14003,11485998,complete,ENS,Trash_Single_Positive,response_slider_endValue,-3,single 72 positive,82781
+14965,11485998,complete,ENS,Trash_Single_Positive,response_slider_endValue,-2,single 16 positive,82781
+16501,11485990,complete,ENS,Trash_Single_Positive,response_slider_endValue,3,single 72 positive,82781
+17465,11485990,complete,ENS,Trash_Single_Positive,response_slider_endValue,8,single 16 positive,82781
+19003,11485999,complete,ENS,Trash_Single_Positive,response_slider_endValue,8,single 72 positive,82781
+19965,11485999,complete,ENS,Trash_Single_Positive,response_slider_endValue,7,single 16 positive,82781
+20943,11486039,complete,ENS,Trash_Single_Positive,response_slider_endValue,6,single 16 positive,82781
+22465,11486039,complete,ENS,Trash_Single_Positive,response_slider_endValue,5,single 72 positive,82781
+23442,11486015,complete,ENS,Trash_Single_Positive,response_slider_endValue,-5,single 16 positive,82781
+24963,11486015,complete,ENS,Trash_Single_Positive,response_slider_endValue,10,single 72 positive,82781
+25941,11486198,complete,ENS,Trash_Single_Positive,response_slider_endValue,7,single 16 positive,82781
+27462,11486198,complete,ENS,Trash_Single_Positive,response_slider_endValue,8,single 72 positive,82781
+941,6067103,complete,NSE,Trash_Single_Negative,response_slider_endValue,-10,single 16 negative,82781
+2466,6067103,complete,NSE,Trash_Single_Negative,response_slider_endValue,-9,single 72 negative,82781
+3442,6067705,complete,NSE,Trash_Single_Negative,response_slider_endValue,2,single 16 negative,82781
+4966,6067705,complete,NSE,Trash_Single_Negative,response_slider_endValue,-6,single 72 negative,82781
+5943,6067686,complete,NSE,Trash_Single_Negative,response_slider_endValue,10,single 16 negative,82781
+7466,6067686,complete,NSE,Trash_Single_Negative,response_slider_endValue,-10,single 72 negative,82781
+9003,6067920,complete,NSE,Trash_Single_Negative,response_slider_endValue,5,single 72 negative,82781
+9966,6067920,complete,NSE,Trash_Single_Negative,response_slider_endValue,-6,single 16 negative,82781
+11502,6080138,complete,NSE,Trash_Single_Negative,response_slider_endValue,-2,single 72 negative,82781
+12466,6080138,complete,NSE,Trash_Single_Negative,response_slider_endValue,0,single 16 negative,82781
+14004,11486011,complete,NSE,Trash_Single_Negative,response_slider_endValue,7,single 72 negative,82781
+14966,11486011,complete,NSE,Trash_Single_Negative,response_slider_endValue,8,single 16 negative,82781
+15944,11486031,complete,NSE,Trash_Single_Negative,response_slider_endValue,7,single 16 negative,82781
+17466,11486031,complete,NSE,Trash_Single_Negative,response_slider_endValue,8,single 72 negative,82781
+18442,11486010,complete,NSE,Trash_Single_Negative,response_slider_endValue,-9,single 16 negative,82781
+19966,11486010,complete,NSE,Trash_Single_Negative,response_slider_endValue,-9,single 72 negative,82781
+21502,11486053,complete,NSE,Trash_Single_Negative,response_slider_endValue,6,single 72 negative,82781
+22466,11486053,complete,NSE,Trash_Single_Negative,response_slider_endValue,8,single 16 negative,82781
+24001,11486056,complete,NSE,Trash_Single_Negative,response_slider_endValue,8,single 72 negative,82781
+24964,11486056,complete,NSE,Trash_Single_Negative,response_slider_endValue,8,single 16 negative,82781
+26501,11486201,complete,NSE,Trash_Single_Negative,response_slider_endValue,5,single 72 negative,82781
+27463,11486201,complete,NSE,Trash_Single_Negative,response_slider_endValue,4,single 16 negative,82781
+1505,6067170,complete,SNE,Trash_Single_Positive,response_slider_endValue,3,single 72 positive,82781
+2467,6067170,complete,SNE,Trash_Single_Positive,response_slider_endValue,-6,single 16 positive,82781
+3443,6067764,complete,SNE,Trash_Single_Positive,response_slider_endValue,10,single 16 positive,82781
+4967,6067764,complete,SNE,Trash_Single_Positive,response_slider_endValue,5,single 72 positive,82781
+5944,6068152,complete,SNE,Trash_Single_Positive,response_slider_endValue,5,single 16 positive,82781
+7467,6068152,complete,SNE,Trash_Single_Positive,response_slider_endValue,-10,single 72 positive,82781
+8443,11486001,complete,SNE,Trash_Single_Positive,response_slider_endValue,7,single 16 positive,82781
+9967,11486001,complete,SNE,Trash_Single_Positive,response_slider_endValue,8,single 72 positive,82781
+11503,11486033,complete,SNE,Trash_Single_Positive,response_slider_endValue,3,single 72 positive,82781
+12467,11486033,complete,SNE,Trash_Single_Positive,response_slider_endValue,2,single 16 positive,82781
+14005,11486003,complete,SNE,Trash_Single_Positive,response_slider_endValue,6,single 72 positive,82781
+14967,11486003,complete,SNE,Trash_Single_Positive,response_slider_endValue,6,single 16 positive,82781
+15945,11486059,complete,SNE,Trash_Single_Positive,response_slider_endValue,9,single 16 positive,82781
+17467,11486059,complete,SNE,Trash_Single_Positive,response_slider_endValue,9,single 72 positive,82781
+19004,11486273,complete,SNE,Trash_Single_Positive,response_slider_endValue,8,single 72 positive,82781
+19967,11486273,complete,SNE,Trash_Single_Positive,response_slider_endValue,9,single 16 positive,82781
+942,11486036,complete,ESN,Trash_Single_Positive,response_slider_endValue,7,single 16 positive,82781
+2468,11486036,complete,ESN,Trash_Single_Positive,response_slider_endValue,6,single 72 positive,82781
+4004,11485988,complete,ESN,Trash_Single_Positive,response_slider_endValue,6,single 72 positive,82781
+4968,11485988,complete,ESN,Trash_Single_Positive,response_slider_endValue,6,single 16 positive,82781
+5945,6067617,complete,ESN,Trash_Single_Positive,response_slider_endValue,3,single 16 positive,82781
+7468,6067617,complete,ESN,Trash_Single_Positive,response_slider_endValue,4,single 72 positive,82781
+8444,6067110,complete,ESN,Trash_Single_Positive,response_slider_endValue,9,single 16 positive,82781
+9968,6067110,complete,ESN,Trash_Single_Positive,response_slider_endValue,7,single 72 positive,82781
+10944,11486019,complete,ESN,Trash_Single_Positive,response_slider_endValue,-5,single 16 positive,82781
+12468,11486019,complete,ESN,Trash_Single_Positive,response_slider_endValue,-6,single 72 positive,82781
+13442,11486012,complete,ESN,Trash_Single_Positive,response_slider_endValue,6,single 16 positive,82781
+14968,11486012,complete,ESN,Trash_Single_Positive,response_slider_endValue,7,single 72 positive,82781
+15946,6068488,complete,ESN,Trash_Single_Positive,response_slider_endValue,-5,single 16 positive,82781
+17468,6068488,complete,ESN,Trash_Single_Positive,response_slider_endValue,-5,single 72 positive,82781
+19005,6067865,complete,ESN,Trash_Single_Positive,response_slider_endValue,-7,single 72 positive,82781
+19968,6067865,complete,ESN,Trash_Single_Positive,response_slider_endValue,6,single 16 positive,82781
+21503,11486040,complete,ESN,Trash_Single_Positive,response_slider_endValue,7,single 72 positive,82781
+22467,11486040,complete,ESN,Trash_Single_Positive,response_slider_endValue,8,single 16 positive,82781
+23443,11486194,complete,ESN,Trash_Single_Positive,response_slider_endValue,6,single 16 positive,82781
+24965,11486194,complete,ESN,Trash_Single_Positive,response_slider_endValue,6,single 72 positive,82781
+943,6067170,complete,SNE,Empty_Positive,response_slider_endValue,1,empty 16 positive,82781
+2469,6067170,complete,SNE,Empty_Positive,response_slider_endValue,-8,empty 72 positive,82781
+4005,6067764,complete,SNE,Empty_Positive,response_slider_endValue,0,empty 72 positive,82781
+4969,6067764,complete,SNE,Empty_Positive,response_slider_endValue,10,empty 16 positive,82781
+6503,6068152,complete,SNE,Empty_Positive,response_slider_endValue,1,empty 72 positive,82781
+7469,6068152,complete,SNE,Empty_Positive,response_slider_endValue,3,empty 16 positive,82781
+9004,11486001,complete,SNE,Empty_Positive,response_slider_endValue,5,empty 72 positive,82781
+9969,11486001,complete,SNE,Empty_Positive,response_slider_endValue,4,empty 16 positive,82781
+11504,11486033,complete,SNE,Empty_Positive,response_slider_endValue,0,empty 72 positive,82781
+12469,11486033,complete,SNE,Empty_Positive,response_slider_endValue,1,empty 16 positive,82781
+14006,11486059,complete,SNE,Empty_Positive,response_slider_endValue,10,empty 72 positive,82781
+14969,11486059,complete,SNE,Empty_Positive,response_slider_endValue,10,empty 16 positive,82781
+15947,11486003,complete,SNE,Empty_Positive,response_slider_endValue,3,empty 16 positive,82781
+17469,11486003,complete,SNE,Empty_Positive,response_slider_endValue,4,empty 72 positive,82781
+19006,11486273,complete,SNE,Empty_Positive,response_slider_endValue,9,empty 72 positive,82781
+19969,11486273,complete,SNE,Empty_Positive,response_slider_endValue,6,empty 16 positive,82781
+944,6067110,complete,ESN,Trash_Single_Negative,response_slider_endValue,-6,single 16 negative,82781
+24610,6067110,complete,ESN,Trash_Single_Negative,response_slider_endValue,-8,single 72 negative,82781
+4006,6067617,complete,ESN,Trash_Single_Negative,response_slider_endValue,-3,single 72 negative,82781
+49610,6067617,complete,ESN,Trash_Single_Negative,response_slider_endValue,2,single 16 negative,82781
+6504,11485988,complete,ESN,Trash_Single_Negative,response_slider_endValue,6,single 72 negative,82781
+74610,11485988,complete,ESN,Trash_Single_Negative,response_slider_endValue,7,single 16 negative,82781
+9005,11486012,complete,ESN,Trash_Single_Negative,response_slider_endValue,-7,single 72 negative,82781
+99610,11486012,complete,ESN,Trash_Single_Negative,response_slider_endValue,-8,single 16 negative,82781
+11505,11486019,complete,ESN,Trash_Single_Negative,response_slider_endValue,-3,single 72 negative,82781
+124610,11486019,complete,ESN,Trash_Single_Negative,response_slider_endValue,-6,single 16 negative,82781
+14007,6067865,complete,ESN,Trash_Single_Negative,response_slider_endValue,-6,single 72 negative,82781
+149610,6067865,complete,ESN,Trash_Single_Negative,response_slider_endValue,-8,single 16 negative,82781
+16502,11486036,complete,ESN,Trash_Single_Negative,response_slider_endValue,-4,single 72 negative,82781
+174610,11486036,complete,ESN,Trash_Single_Negative,response_slider_endValue,-5,single 16 negative,82781
+18443,6068488,complete,ESN,Trash_Single_Negative,response_slider_endValue,-6,single 16 negative,82781
+199610,6068488,complete,ESN,Trash_Single_Negative,response_slider_endValue,-10,single 72 negative,82781
+20944,11486040,complete,ESN,Trash_Single_Negative,response_slider_endValue,1,single 16 negative,82781
+22468,11486040,complete,ESN,Trash_Single_Negative,response_slider_endValue,-3,single 72 negative,82781
+23444,11486194,complete,ESN,Trash_Single_Negative,response_slider_endValue,8,single 16 negative,82781
+24966,11486194,complete,ESN,Trash_Single_Negative,response_slider_endValue,7,single 72 negative,82781
+1506,6067170,complete,SNE,Empty_Negative,response_slider_endValue,-3,empty 72 negative,82781
+24611,6067170,complete,SNE,Empty_Negative,response_slider_endValue,-4,empty 16 negative,82781
+3444,6067764,complete,SNE,Empty_Negative,response_slider_endValue,10,empty 16 negative,82781
+49611,6067764,complete,SNE,Empty_Negative,response_slider_endValue,0,empty 72 negative,82781
+5946,6068152,complete,SNE,Empty_Negative,response_slider_endValue,-3,empty 16 negative,82781
+74611,6068152,complete,SNE,Empty_Negative,response_slider_endValue,-10,empty 72 negative,82781
+8445,11486003,complete,SNE,Empty_Negative,response_slider_endValue,-2,empty 16 negative,82781
+99611,11486003,complete,SNE,Empty_Negative,response_slider_endValue,-8,empty 72 negative,82781
+11506,11486001,complete,SNE,Empty_Negative,response_slider_endValue,-1,empty 72 negative,82781
+124611,11486001,complete,SNE,Empty_Negative,response_slider_endValue,-3,empty 16 negative,82781
+13443,11486033,complete,SNE,Empty_Negative,response_slider_endValue,-7,empty 16 negative,82781
+149611,11486033,complete,SNE,Empty_Negative,response_slider_endValue,-7,empty 72 negative,82781
+15948,11486059,complete,SNE,Empty_Negative,response_slider_endValue,10,empty 16 negative,82781
+174611,11486059,complete,SNE,Empty_Negative,response_slider_endValue,9,empty 72 negative,82781
+18444,11486273,complete,SNE,Empty_Negative,response_slider_endValue,7,empty 16 negative,82781
+199611,11486273,complete,SNE,Empty_Negative,response_slider_endValue,7,empty 72 negative,82781
+1507,6067091,complete,ENS,Empty_Negative,response_slider_endValue,-1,empty 72 negative,82781
+24612,6067091,complete,ENS,Empty_Negative,response_slider_endValue,2,empty 16 negative,82781
+3445,6067172,complete,ENS,Empty_Negative,response_slider_endValue,2,empty 16 negative,82781
+49612,6067172,complete,ENS,Empty_Negative,response_slider_endValue,-4,empty 72 negative,82781
+5947,6067702,complete,ENS,Empty_Negative,response_slider_endValue,-2,empty 16 negative,82781
+74612,6067702,complete,ENS,Empty_Negative,response_slider_endValue,1,empty 72 negative,82781
+9006,6067740,complete,ENS,Empty_Negative,response_slider_endValue,2,empty 72 negative,82781
+99612,6067740,complete,ENS,Empty_Negative,response_slider_endValue,6,empty 16 negative,82781
+10945,6067939,complete,ENS,Empty_Negative,response_slider_endValue,3,empty 16 negative,82781
+124612,6067939,complete,ENS,Empty_Negative,response_slider_endValue,0,empty 72 negative,82781
+13444,11485998,complete,ENS,Empty_Negative,response_slider_endValue,4,empty 16 negative,82781
+149612,11485998,complete,ENS,Empty_Negative,response_slider_endValue,4,empty 72 negative,82781
+15949,11485990,complete,ENS,Empty_Negative,response_slider_endValue,-5,empty 16 negative,82781
+174612,11485990,complete,ENS,Empty_Negative,response_slider_endValue,-7,empty 72 negative,82781
+1845,11485999,complete,ENS,Empty_Negative,response_slider_endValue,8,empty 16 negative,82781
+1997,11485999,complete,ENS,Empty_Negative,response_slider_endValue,8,empty 72 negative,82781
+2151,11486039,complete,ENS,Empty_Negative,response_slider_endValue,-1,empty 72 negative,82781
+2247,11486039,complete,ENS,Empty_Negative,response_slider_endValue,-4,empty 16 negative,82781
+2345,11486015,complete,ENS,Empty_Negative,response_slider_endValue,9,empty 16 negative,82781
+2497,11486015,complete,ENS,Empty_Negative,response_slider_endValue,5,empty 72 negative,82781
+2651,11486198,complete,ENS,Empty_Negative,response_slider_endValue,10,empty 72 negative,82781
+2747,11486198,complete,ENS,Empty_Negative,response_slider_endValue,8,empty 16 negative,82781
+78,6067170,complete,SNE,No D Events,response_slider_endValue,4,noD positive,82781
+158,6067170,complete,SNE,No D Events,response_slider_endValue,-5,noD negative,82781
+240,6067764,complete,SNE,No D Events,response_slider_endValue,10,noD positive,82781
+320,6067764,complete,SNE,No D Events,response_slider_endValue,-10,noD negative,82781
+402,6068152,complete,SNE,No D Events,response_slider_endValue,-1,noD negative,82781
+482,6068152,complete,SNE,No D Events,response_slider_endValue,-3,noD positive,82781
+564,11486001,complete,SNE,No D Events,response_slider_endValue,-6,noD negative,82781
+644,11486001,complete,SNE,No D Events,response_slider_endValue,4,noD positive,82781
+726,11486033,complete,SNE,No D Events,response_slider_endValue,1,noD positive,82781
+806,11486033,complete,SNE,No D Events,response_slider_endValue,-8,noD negative,82781
+888,11486003,complete,SNE,No D Events,response_slider_endValue,4,noD positive,82781
+968,11486003,complete,SNE,No D Events,response_slider_endValue,-8,noD negative,82781
+1050,11486059,complete,SNE,No D Events,response_slider_endValue,9,noD negative,82781
+1130,11486059,complete,SNE,No D Events,response_slider_endValue,9,noD positive,82781
+1212,11486273,complete,SNE,No D Events,response_slider_endValue,8,noD negative,82781
+1292,11486273,complete,SNE,No D Events,response_slider_endValue,8,noD positive,82781
+781,6067162,complete,SEN,No D Events,response_slider_endValue,-6,noD negative,82781
+1581,6067162,complete,SEN,No D Events,response_slider_endValue,5,noD positive,82781
+2401,6067980,complete,SEN,No D Events,response_slider_endValue,1,noD negative,82781
+3201,6067980,complete,SEN,No D Events,response_slider_endValue,2,noD positive,82781
+4021,6068022,complete,SEN,No D Events,response_slider_endValue,2,noD positive,82781
+4821,6068022,complete,SEN,No D Events,response_slider_endValue,-2,noD negative,82781
+5641,11486009,complete,SEN,No D Events,response_slider_endValue,3,noD negative,82781
+6441,11486009,complete,SEN,No D Events,response_slider_endValue,4,noD positive,82781
+7261,11486013,complete,SEN,No D Events,response_slider_endValue,-8,noD negative,82781
+8061,11486013,complete,SEN,No D Events,response_slider_endValue,6,noD positive,82781
+8881,11486052,complete,SEN,No D Events,response_slider_endValue,6,noD positive,82781
+9681,11486052,complete,SEN,No D Events,response_slider_endValue,6,noD negative,82781
+10501,11486005,complete,SEN,No D Events,response_slider_endValue,3,noD positive,82781
+11301,11486005,complete,SEN,No D Events,response_slider_endValue,-8,noD negative,82781
+12121,11486074,complete,SEN,No D Events,response_slider_endValue,7,noD negative,82781
+12921,11486074,complete,SEN,No D Events,response_slider_endValue,6,noD positive,82781
+945,6067170,complete,SNE,Trash_Single_Negative,response_slider_endValue,5,single 16 negative,82781
+24613,6067170,complete,SNE,Trash_Single_Negative,response_slider_endValue,3,single 72 negative,82781
+3446,6067764,complete,SNE,Trash_Single_Negative,response_slider_endValue,0,single 16 negative,82781
+49613,6067764,complete,SNE,Trash_Single_Negative,response_slider_endValue,-10,single 72 negative,82781
+5948,6068152,complete,SNE,Trash_Single_Negative,response_slider_endValue,-1,single 16 negative,82781
+74613,6068152,complete,SNE,Trash_Single_Negative,response_slider_endValue,-7,single 72 negative,82781
+9007,11486003,complete,SNE,Trash_Single_Negative,response_slider_endValue,-4,single 72 negative,82781
+99613,11486003,complete,SNE,Trash_Single_Negative,response_slider_endValue,1,single 16 negative,82781
+10946,11486001,complete,SNE,Trash_Single_Negative,response_slider_endValue,-8,single 16 negative,82781
+124613,11486001,complete,SNE,Trash_Single_Negative,response_slider_endValue,-5,single 72 negative,82781
+14008,11486033,complete,SNE,Trash_Single_Negative,response_slider_endValue,-10,single 72 negative,82781
+149613,11486033,complete,SNE,Trash_Single_Negative,response_slider_endValue,-6,single 16 negative,82781
+159410,11486059,complete,SNE,Trash_Single_Negative,response_slider_endValue,8,single 16 negative,82781
+174613,11486059,complete,SNE,Trash_Single_Negative,response_slider_endValue,9,single 72 negative,82781
+18445,11486273,complete,SNE,Trash_Single_Negative,response_slider_endValue,8,single 16 negative,82781
+199612,11486273,complete,SNE,Trash_Single_Negative,response_slider_endValue,8,single 72 negative,82781
+946,6067103,complete,NSE,Empty_Negative,response_slider_endValue,-8,empty 16 negative,82781
+24614,6067103,complete,NSE,Empty_Negative,response_slider_endValue,-9,empty 72 negative,82781
+3447,6067705,complete,NSE,Empty_Negative,response_slider_endValue,-9,empty 16 negative,82781
+49614,6067705,complete,NSE,Empty_Negative,response_slider_endValue,-4,empty 72 negative,82781
+5949,6067686,complete,NSE,Empty_Negative,response_slider_endValue,-10,empty 16 negative,82781
+74614,6067686,complete,NSE,Empty_Negative,response_slider_endValue,-10,empty 72 negative,82781
+8446,6067920,complete,NSE,Empty_Negative,response_slider_endValue,4,empty 16 negative,82781
+99614,6067920,complete,NSE,Empty_Negative,response_slider_endValue,-8,empty 72 negative,82781
+11507,6080138,complete,NSE,Empty_Negative,response_slider_endValue,0,empty 72 negative,82781
+124614,6080138,complete,NSE,Empty_Negative,response_slider_endValue,1,empty 16 negative,82781
+13445,11486011,complete,NSE,Empty_Negative,response_slider_endValue,8,empty 16 negative,82781
+149614,11486011,complete,NSE,Empty_Negative,response_slider_endValue,9,empty 72 negative,82781
+16503,11486031,complete,NSE,Empty_Negative,response_slider_endValue,7,empty 72 negative,82781
+174614,11486031,complete,NSE,Empty_Negative,response_slider_endValue,6,empty 16 negative,82781
+19007,11486010,complete,NSE,Empty_Negative,response_slider_endValue,-9,empty 72 negative,82781
+199613,11486010,complete,NSE,Empty_Negative,response_slider_endValue,-9,empty 16 negative,82781
+21504,11486053,complete,NSE,Empty_Negative,response_slider_endValue,7,empty 72 negative,82781
+22469,11486053,complete,NSE,Empty_Negative,response_slider_endValue,7,empty 16 negative,82781
+24002,11486056,complete,NSE,Empty_Negative,response_slider_endValue,8,empty 72 negative,82781
+24967,11486056,complete,NSE,Empty_Negative,response_slider_endValue,7,empty 16 negative,82781
+25942,11486201,complete,NSE,Empty_Negative,response_slider_endValue,5,empty 16 negative,82781
+27464,11486201,complete,NSE,Empty_Negative,response_slider_endValue,4,empty 72 negative,82781
+947,6067181,complete,NES,Trash_Single_Negative,response_slider_endValue,-4,single 16 negative,82781
+24615,6067181,complete,NES,Trash_Single_Negative,response_slider_endValue,-8,single 72 negative,82781
+4007,6067676,complete,NES,Trash_Single_Negative,response_slider_endValue,-10,single 72 negative,82781
+49615,6067676,complete,NES,Trash_Single_Negative,response_slider_endValue,-10,single 16 negative,82781
+59410,6067969,complete,NES,Trash_Single_Negative,response_slider_endValue,-3,single 16 negative,82781
+74615,6067969,complete,NES,Trash_Single_Negative,response_slider_endValue,-6,single 72 negative,82781
+8447,6070088,complete,NES,Trash_Single_Negative,response_slider_endValue,10,single 16 negative,82781
+99615,6070088,complete,NES,Trash_Single_Negative,response_slider_endValue,10,single 72 negative,82781
+10947,11486000,complete,NES,Trash_Single_Negative,response_slider_endValue,6,single 16 negative,82781
+124615,11486000,complete,NES,Trash_Single_Negative,response_slider_endValue,5,single 72 negative,82781
+14009,11486023,complete,NES,Trash_Single_Negative,response_slider_endValue,-2,single 72 negative,82781
+149615,11486023,complete,NES,Trash_Single_Negative,response_slider_endValue,3,single 16 negative,82781
+16504,11486035,complete,NES,Trash_Single_Negative,response_slider_endValue,-5,single 72 negative,82781
+174615,11486035,complete,NES,Trash_Single_Negative,response_slider_endValue,-4,single 16 negative,82781
+18446,11486025,complete,NES,Trash_Single_Negative,response_slider_endValue,-8,single 16 negative,82781
+199614,11486025,complete,NES,Trash_Single_Negative,response_slider_endValue,-9,single 72 negative,82781
+21505,11486017,complete,NES,Trash_Single_Negative,response_slider_endValue,2,single 72 negative,82781
+224610,11486017,complete,NES,Trash_Single_Negative,response_slider_endValue,10,single 16 negative,82781
+1508,6067103,complete,NSE,Trash_Single_Positive,response_slider_endValue,4,single 72 positive,82781
+24616,6067103,complete,NSE,Trash_Single_Positive,response_slider_endValue,5,single 16 positive,82781
+4008,6067686,complete,NSE,Trash_Single_Positive,response_slider_endValue,10,single 72 positive,82781
+49616,6067686,complete,NSE,Trash_Single_Positive,response_slider_endValue,10,single 16 positive,82781
+59411,6067705,complete,NSE,Trash_Single_Positive,response_slider_endValue,4,single 16 positive,82781
+74616,6067705,complete,NSE,Trash_Single_Positive,response_slider_endValue,1,single 72 positive,82781
+8448,6067920,complete,NSE,Trash_Single_Positive,response_slider_endValue,5,single 16 positive,82781
+99616,6067920,complete,NSE,Trash_Single_Positive,response_slider_endValue,3,single 72 positive,82781
+10948,6080138,complete,NSE,Trash_Single_Positive,response_slider_endValue,4,single 16 positive,82781
+124616,6080138,complete,NSE,Trash_Single_Positive,response_slider_endValue,2,single 72 positive,82781
+13446,11486031,complete,NSE,Trash_Single_Positive,response_slider_endValue,6,single 16 positive,82781
+149616,11486031,complete,NSE,Trash_Single_Positive,response_slider_endValue,7,single 72 positive,82781
+159411,11486053,complete,NSE,Trash_Single_Positive,response_slider_endValue,7,single 16 positive,82781
+174616,11486053,complete,NSE,Trash_Single_Positive,response_slider_endValue,7,single 72 positive,82781
+19008,11486011,complete,NSE,Trash_Single_Positive,response_slider_endValue,9,single 72 positive,82781
+199615,11486011,complete,NSE,Trash_Single_Positive,response_slider_endValue,-7,single 16 positive,82781
+21506,11486056,complete,NSE,Trash_Single_Positive,response_slider_endValue,7,single 72 positive,82781
+224611,11486056,complete,NSE,Trash_Single_Positive,response_slider_endValue,6,single 16 positive,82781
+24003,11486010,complete,NSE,Trash_Single_Positive,response_slider_endValue,7,single 72 positive,82781
+24968,11486010,complete,NSE,Trash_Single_Positive,response_slider_endValue,6,single 16 positive,82781
+26502,11486201,complete,NSE,Trash_Single_Positive,response_slider_endValue,4,single 72 positive,82781
+27465,11486201,complete,NSE,Trash_Single_Positive,response_slider_endValue,4,single 16 positive,82781
+782,6067091,complete,ENS,No D Events,response_slider_endValue,8,noD positive,82781
+1582,6067091,complete,ENS,No D Events,response_slider_endValue,1,noD negative,82781
+2402,6067172,complete,ENS,No D Events,response_slider_endValue,-3,noD negative,82781
+3202,6067172,complete,ENS,No D Events,response_slider_endValue,8,noD positive,82781
+4022,6067702,complete,ENS,No D Events,response_slider_endValue,7,noD positive,82781
+4822,6067702,complete,ENS,No D Events,response_slider_endValue,-7,noD negative,82781
+5642,6067740,complete,ENS,No D Events,response_slider_endValue,-4,noD negative,82781
+6442,6067740,complete,ENS,No D Events,response_slider_endValue,-5,noD positive,82781
+7262,6067939,complete,ENS,No D Events,response_slider_endValue,8,noD positive,82781
+8062,6067939,complete,ENS,No D Events,response_slider_endValue,3,noD negative,82781
+8882,11485998,complete,ENS,No D Events,response_slider_endValue,-3,noD positive,82781
+9682,11485998,complete,ENS,No D Events,response_slider_endValue,3,noD negative,82781
+10502,11485999,complete,ENS,No D Events,response_slider_endValue,8,noD positive,82781
+11302,11485999,complete,ENS,No D Events,response_slider_endValue,-8,noD negative,82781
+12122,11485990,complete,ENS,No D Events,response_slider_endValue,7,noD positive,82781
+12922,11485990,complete,ENS,No D Events,response_slider_endValue,-5,noD negative,82781
+1374,11486039,complete,ENS,No D Events,response_slider_endValue,4,noD positive,82781
+1454,11486039,complete,ENS,No D Events,response_slider_endValue,-5,noD negative,82781
+1536,11486015,complete,ENS,No D Events,response_slider_endValue,-4,noD positive,82781
+1616,11486015,complete,ENS,No D Events,response_slider_endValue,4,noD negative,82781
+1698,11486198,complete,ENS,No D Events,response_slider_endValue,8,noD positive,82781
+1778,11486198,complete,ENS,No D Events,response_slider_endValue,8,noD negative,82781
+948,6067162,complete,SEN,Empty_Positive,response_slider_endValue,1,empty 16 positive,82781
+24617,6067162,complete,SEN,Empty_Positive,response_slider_endValue,2,empty 72 positive,82781
+4009,6067980,complete,SEN,Empty_Positive,response_slider_endValue,-1,empty 72 positive,82781
+49617,6067980,complete,SEN,Empty_Positive,response_slider_endValue,4,empty 16 positive,82781
+6505,6068022,complete,SEN,Empty_Positive,response_slider_endValue,3,empty 72 positive,82781
+74617,6068022,complete,SEN,Empty_Positive,response_slider_endValue,3,empty 16 positive,82781
+9008,11486009,complete,SEN,Empty_Positive,response_slider_endValue,5,empty 72 positive,82781
+99617,11486009,complete,SEN,Empty_Positive,response_slider_endValue,7,empty 16 positive,82781
+11508,11486013,complete,SEN,Empty_Positive,response_slider_endValue,8,empty 72 positive,82781
+124617,11486013,complete,SEN,Empty_Positive,response_slider_endValue,7,empty 16 positive,82781
+13447,11486005,complete,SEN,Empty_Positive,response_slider_endValue,1,empty 16 positive,82781
+149617,11486005,complete,SEN,Empty_Positive,response_slider_endValue,3,empty 72 positive,82781
+16505,11486052,complete,SEN,Empty_Positive,response_slider_endValue,3,empty 72 positive,82781
+174617,11486052,complete,SEN,Empty_Positive,response_slider_endValue,6,empty 16 positive,82781
+18447,11486074,complete,SEN,Empty_Positive,response_slider_endValue,10,empty 16 positive,82781
+199616,11486074,complete,SEN,Empty_Positive,response_slider_endValue,7,empty 72 positive,82781
+1509,6067162,complete,SEN,Empty_Negative,response_slider_endValue,-5,empty 72 negative,82781
+24618,6067162,complete,SEN,Empty_Negative,response_slider_endValue,-5,empty 16 negative,82781
+40010,6067980,complete,SEN,Empty_Negative,response_slider_endValue,1,empty 72 negative,82781
+49618,6067980,complete,SEN,Empty_Negative,response_slider_endValue,1,empty 16 negative,82781
+6506,6068022,complete,SEN,Empty_Negative,response_slider_endValue,-4,empty 72 negative,82781
+74618,6068022,complete,SEN,Empty_Negative,response_slider_endValue,1,empty 16 negative,82781
+9009,11486013,complete,SEN,Empty_Negative,response_slider_endValue,-9,empty 72 negative,82781
+99618,11486013,complete,SEN,Empty_Negative,response_slider_endValue,-8,empty 16 negative,82781
+11509,11486009,complete,SEN,Empty_Negative,response_slider_endValue,5,empty 72 negative,82781
+124618,11486009,complete,SEN,Empty_Negative,response_slider_endValue,-3,empty 16 negative,82781
+140010,11486052,complete,SEN,Empty_Negative,response_slider_endValue,6,empty 72 negative,82781
+149618,11486052,complete,SEN,Empty_Negative,response_slider_endValue,5,empty 16 negative,82781
+159412,11486005,complete,SEN,Empty_Negative,response_slider_endValue,-8,empty 16 negative,82781
+174618,11486005,complete,SEN,Empty_Negative,response_slider_endValue,-3,empty 72 negative,82781
+18448,11486074,complete,SEN,Empty_Negative,response_slider_endValue,7,empty 16 negative,82781
+199617,11486074,complete,SEN,Empty_Negative,response_slider_endValue,7,empty 72 negative,82781
+783,6067103,complete,NSE,No D Events,response_slider_endValue,-4,noD negative,82781
+1583,6067103,complete,NSE,No D Events,response_slider_endValue,6,noD positive,82781
+2403,6067686,complete,NSE,No D Events,response_slider_endValue,-10,noD positive,82781
+3203,6067686,complete,NSE,No D Events,response_slider_endValue,10,noD negative,82781
+4023,6067705,complete,NSE,No D Events,response_slider_endValue,2,noD negative,82781
+4823,6067705,complete,NSE,No D Events,response_slider_endValue,10,noD positive,82781
+5643,6067920,complete,NSE,No D Events,response_slider_endValue,7,noD positive,82781
+6443,6067920,complete,NSE,No D Events,response_slider_endValue,2,noD negative,82781
+7263,6080138,complete,NSE,No D Events,response_slider_endValue,5,noD positive,82781
+8063,6080138,complete,NSE,No D Events,response_slider_endValue,3,noD negative,82781
+8883,11486011,complete,NSE,No D Events,response_slider_endValue,8,noD positive,82781
+9683,11486011,complete,NSE,No D Events,response_slider_endValue,8,noD negative,82781
+10503,11486031,complete,NSE,No D Events,response_slider_endValue,7,noD positive,82781
+11303,11486031,complete,NSE,No D Events,response_slider_endValue,8,noD negative,82781
+12123,11486010,complete,NSE,No D Events,response_slider_endValue,9,noD positive,82781
+12923,11486010,complete,NSE,No D Events,response_slider_endValue,-10,noD negative,82781
+13741,11486053,complete,NSE,No D Events,response_slider_endValue,6,noD negative,82781
+14541,11486053,complete,NSE,No D Events,response_slider_endValue,6,noD positive,82781
+15361,11486056,complete,NSE,No D Events,response_slider_endValue,6,noD positive,82781
+16161,11486056,complete,NSE,No D Events,response_slider_endValue,6,noD negative,82781
+16981,11486201,complete,NSE,No D Events,response_slider_endValue,4,noD positive,82781
+17781,11486201,complete,NSE,No D Events,response_slider_endValue,4,noD negative,82781
+949,6067162,complete,SEN,Trash_Single_Negative,response_slider_endValue,2,single 16 negative,82781
+24619,6067162,complete,SEN,Trash_Single_Negative,response_slider_endValue,0,single 72 negative,82781
+3448,6067980,complete,SEN,Trash_Single_Negative,response_slider_endValue,3,single 16 negative,82781
+49619,6067980,complete,SEN,Trash_Single_Negative,response_slider_endValue,0,single 72 negative,82781
+6507,6068022,complete,SEN,Trash_Single_Negative,response_slider_endValue,-8,single 72 negative,82781
+74619,6068022,complete,SEN,Trash_Single_Negative,response_slider_endValue,-2,single 16 negative,82781
+90010,11486013,complete,SEN,Trash_Single_Negative,response_slider_endValue,-9,single 72 negative,82781
+99619,11486013,complete,SEN,Trash_Single_Negative,response_slider_endValue,-7,single 16 negative,82781
+10949,11486009,complete,SEN,Trash_Single_Negative,response_slider_endValue,5,single 16 negative,82781
+124619,11486009,complete,SEN,Trash_Single_Negative,response_slider_endValue,6,single 72 negative,82781
+140011,11486052,complete,SEN,Trash_Single_Negative,response_slider_endValue,7,single 72 negative,82781
+149619,11486052,complete,SEN,Trash_Single_Negative,response_slider_endValue,5,single 16 negative,82781
+16506,11486005,complete,SEN,Trash_Single_Negative,response_slider_endValue,-9,single 72 negative,82781
+174619,11486005,complete,SEN,Trash_Single_Negative,response_slider_endValue,-8,single 16 negative,82781
+19009,11486074,complete,SEN,Trash_Single_Negative,response_slider_endValue,9,single 72 negative,82781
+199618,11486074,complete,SEN,Trash_Single_Negative,response_slider_endValue,10,single 16 negative,82781
+9410,6067181,complete,NES,Empty_Negative,response_slider_endValue,-5,empty 16 negative,82781
+24620,6067181,complete,NES,Empty_Negative,response_slider_endValue,-4,empty 72 negative,82781
+40011,6067676,complete,NES,Empty_Negative,response_slider_endValue,-3,empty 72 negative,82781
+49620,6067676,complete,NES,Empty_Negative,response_slider_endValue,0,empty 16 negative,82781
+6508,6067969,complete,NES,Empty_Negative,response_slider_endValue,0,empty 72 negative,82781
+74620,6067969,complete,NES,Empty_Negative,response_slider_endValue,10,empty 16 negative,82781
+90011,6070088,complete,NES,Empty_Negative,response_slider_endValue,9,empty 72 negative,82781
+99620,6070088,complete,NES,Empty_Negative,response_slider_endValue,10,empty 16 negative,82781
+109410,11486000,complete,NES,Empty_Negative,response_slider_endValue,-4,empty 16 negative,82781
+124620,11486000,complete,NES,Empty_Negative,response_slider_endValue,-5,empty 72 negative,82781
+13448,11486023,complete,NES,Empty_Negative,response_slider_endValue,2,empty 16 negative,82781
+149620,11486023,complete,NES,Empty_Negative,response_slider_endValue,-3,empty 72 negative,82781
+159413,11486017,complete,NES,Empty_Negative,response_slider_endValue,4,empty 16 negative,82781
+174620,11486017,complete,NES,Empty_Negative,response_slider_endValue,-7,empty 72 negative,82781
+18449,11486025,complete,NES,Empty_Negative,response_slider_endValue,-7,empty 16 negative,82781
+199619,11486025,complete,NES,Empty_Negative,response_slider_endValue,-9,empty 72 negative,82781
+20945,11486035,complete,NES,Empty_Negative,response_slider_endValue,-6,empty 16 negative,82781
+224612,11486035,complete,NES,Empty_Negative,response_slider_endValue,-6,empty 72 negative,82781
+9411,6067110,complete,ESN,Empty_Negative,response_slider_endValue,-4,empty 16 negative,82781
+24621,6067110,complete,ESN,Empty_Negative,response_slider_endValue,-5,empty 72 negative,82781
+40012,6067617,complete,ESN,Empty_Negative,response_slider_endValue,-7,empty 72 negative,82781
+49621,6067617,complete,ESN,Empty_Negative,response_slider_endValue,-2,empty 16 negative,82781
+6509,6067865,complete,ESN,Empty_Negative,response_slider_endValue,-7,empty 72 negative,82781
+74621,6067865,complete,ESN,Empty_Negative,response_slider_endValue,-8,empty 16 negative,82781
+8449,6068488,complete,ESN,Empty_Negative,response_slider_endValue,1,empty 16 negative,82781
+99621,6068488,complete,ESN,Empty_Negative,response_slider_endValue,6,empty 72 negative,82781
+115010,11485988,complete,ESN,Empty_Negative,response_slider_endValue,8,empty 72 negative,82781
+124621,11485988,complete,ESN,Empty_Negative,response_slider_endValue,-9,empty 16 negative,82781
+140012,11486019,complete,ESN,Empty_Negative,response_slider_endValue,5,empty 72 negative,82781
+149621,11486019,complete,ESN,Empty_Negative,response_slider_endValue,7,empty 16 negative,82781
+16507,11486012,complete,ESN,Empty_Negative,response_slider_endValue,-5,empty 72 negative,82781
+174621,11486012,complete,ESN,Empty_Negative,response_slider_endValue,-1,empty 16 negative,82781
+184410,11486040,complete,ESN,Empty_Negative,response_slider_endValue,3,empty 16 negative,82781
+199620,11486040,complete,ESN,Empty_Negative,response_slider_endValue,1,empty 72 negative,82781
+21507,11486036,complete,ESN,Empty_Negative,response_slider_endValue,-8,empty 72 negative,82781
+224613,11486036,complete,ESN,Empty_Negative,response_slider_endValue,-9,empty 16 negative,82781
+24004,11486194,complete,ESN,Empty_Negative,response_slider_endValue,4,empty 72 negative,82781
+24969,11486194,complete,ESN,Empty_Negative,response_slider_endValue,6,empty 16 negative,82781
+784,6067110,complete,ESN,No D Events,response_slider_endValue,6,noD positive,82781
+1584,6067110,complete,ESN,No D Events,response_slider_endValue,-4,noD negative,82781
+2404,6067617,complete,ESN,No D Events,response_slider_endValue,-2,noD negative,82781
+3204,6067617,complete,ESN,No D Events,response_slider_endValue,5,noD positive,82781
+4024,6067865,complete,ESN,No D Events,response_slider_endValue,7,noD positive,82781
+4824,6067865,complete,ESN,No D Events,response_slider_endValue,-8,noD negative,82781
+5644,6068488,complete,ESN,No D Events,response_slider_endValue,9,noD positive,82781
+6444,6068488,complete,ESN,No D Events,response_slider_endValue,-10,noD negative,82781
+7264,11485988,complete,ESN,No D Events,response_slider_endValue,7,noD positive,82781
+8064,11485988,complete,ESN,No D Events,response_slider_endValue,7,noD negative,82781
+8884,11486012,complete,ESN,No D Events,response_slider_endValue,-9,noD negative,82781
+9684,11486012,complete,ESN,No D Events,response_slider_endValue,2,noD positive,82781
+10504,11486036,complete,ESN,No D Events,response_slider_endValue,-4,noD negative,82781
+11304,11486036,complete,ESN,No D Events,response_slider_endValue,7,noD positive,82781
+12124,11486019,complete,ESN,No D Events,response_slider_endValue,7,noD negative,82781
+12924,11486019,complete,ESN,No D Events,response_slider_endValue,8,noD positive,82781
+13742,11486040,complete,ESN,No D Events,response_slider_endValue,2,noD negative,82781
+14542,11486040,complete,ESN,No D Events,response_slider_endValue,7,noD positive,82781
+15362,11486194,complete,ESN,No D Events,response_slider_endValue,6,noD positive,82781
+16162,11486194,complete,ESN,No D Events,response_slider_endValue,6,noD negative,82781
+785,6067181,complete,NES,No D Events,response_slider_endValue,-5,noD positive,82781
+1585,6067181,complete,NES,No D Events,response_slider_endValue,1,noD negative,82781
+2405,6067676,complete,NES,No D Events,response_slider_endValue,5,noD negative,82781
+3205,6067676,complete,NES,No D Events,response_slider_endValue,8,noD positive,82781
+4025,6067969,complete,NES,No D Events,response_slider_endValue,-1,noD negative,82781
+4825,6067969,complete,NES,No D Events,response_slider_endValue,6,noD positive,82781
+5645,6070088,complete,NES,No D Events,response_slider_endValue,6,noD positive,82781
+6445,6070088,complete,NES,No D Events,response_slider_endValue,10,noD negative,82781
+7265,11486000,complete,NES,No D Events,response_slider_endValue,6,noD negative,82781
+8065,11486000,complete,NES,No D Events,response_slider_endValue,5,noD positive,82781
+8885,11486023,complete,NES,No D Events,response_slider_endValue,6,noD negative,82781
+9685,11486023,complete,NES,No D Events,response_slider_endValue,7,noD positive,82781
+10505,11486025,complete,NES,No D Events,response_slider_endValue,-1,noD negative,82781
+11305,11486025,complete,NES,No D Events,response_slider_endValue,2,noD positive,82781
+12125,11486035,complete,NES,No D Events,response_slider_endValue,5,noD positive,82781
+12925,11486035,complete,NES,No D Events,response_slider_endValue,-5,noD negative,82781
+13743,11486017,complete,NES,No D Events,response_slider_endValue,1,noD negative,82781
+14543,11486017,complete,NES,No D Events,response_slider_endValue,7,noD positive,82781
+9412,6067162,complete,SEN,Trash_Single_Positive,response_slider_endValue,5,single 16 positive,82781
+24622,6067162,complete,SEN,Trash_Single_Positive,response_slider_endValue,5,single 72 positive,82781
+3449,6068022,complete,SEN,Trash_Single_Positive,response_slider_endValue,4,single 16 positive,82781
+49622,6068022,complete,SEN,Trash_Single_Positive,response_slider_endValue,-3,single 72 positive,82781
+59412,6067980,complete,SEN,Trash_Single_Positive,response_slider_endValue,-2,single 16 positive,82781
+74622,6067980,complete,SEN,Trash_Single_Positive,response_slider_endValue,5,single 72 positive,82781
+90012,11486009,complete,SEN,Trash_Single_Positive,response_slider_endValue,7,single 72 positive,82781
+99622,11486009,complete,SEN,Trash_Single_Positive,response_slider_endValue,-7,single 16 positive,82781
+115011,11486005,complete,SEN,Trash_Single_Positive,response_slider_endValue,5,single 72 positive,82781
+124622,11486005,complete,SEN,Trash_Single_Positive,response_slider_endValue,5,single 16 positive,82781
+13449,11486013,complete,SEN,Trash_Single_Positive,response_slider_endValue,5,single 16 positive,82781
+149622,11486013,complete,SEN,Trash_Single_Positive,response_slider_endValue,6,single 72 positive,82781
+159414,11486052,complete,SEN,Trash_Single_Positive,response_slider_endValue,0,single 16 positive,82781
+174622,11486052,complete,SEN,Trash_Single_Positive,response_slider_endValue,3,single 72 positive,82781
+184411,11486074,complete,SEN,Trash_Single_Positive,response_slider_endValue,8,single 16 positive,82781
+199621,11486074,complete,SEN,Trash_Single_Positive,response_slider_endValue,9,single 72 positive,82781
+9413,6067091,complete,ENS,Trash_Single_Negative,response_slider_endValue,6,single 16 negative,82781
+24623,6067091,complete,ENS,Trash_Single_Negative,response_slider_endValue,3,single 72 negative,82781
+40013,6067172,complete,ENS,Trash_Single_Negative,response_slider_endValue,-5,single 72 negative,82781
+49623,6067172,complete,ENS,Trash_Single_Negative,response_slider_endValue,-2,single 16 negative,82781
+59413,6067702,complete,ENS,Trash_Single_Negative,response_slider_endValue,2,single 16 negative,82781
+74623,6067702,complete,ENS,Trash_Single_Negative,response_slider_endValue,-8,single 72 negative,82781
+90013,6067740,complete,ENS,Trash_Single_Negative,response_slider_endValue,4,single 72 negative,82781
+99623,6067740,complete,ENS,Trash_Single_Negative,response_slider_endValue,3,single 16 negative,82781
+115012,6067939,complete,ENS,Trash_Single_Negative,response_slider_endValue,-4,single 72 negative,82781
+124623,6067939,complete,ENS,Trash_Single_Negative,response_slider_endValue,0,single 16 negative,82781
+134410,11485998,complete,ENS,Trash_Single_Negative,response_slider_endValue,-1,single 16 negative,82781
+149623,11485998,complete,ENS,Trash_Single_Negative,response_slider_endValue,1,single 72 negative,82781
+16508,11485999,complete,ENS,Trash_Single_Negative,response_slider_endValue,7,single 72 negative,82781
+174623,11485999,complete,ENS,Trash_Single_Negative,response_slider_endValue,0,single 16 negative,82781
+190010,11485990,complete,ENS,Trash_Single_Negative,response_slider_endValue,-9,single 72 negative,82781
+199622,11485990,complete,ENS,Trash_Single_Negative,response_slider_endValue,-9,single 16 negative,82781
+21508,11486039,complete,ENS,Trash_Single_Negative,response_slider_endValue,-4,single 72 negative,82781
+224614,11486039,complete,ENS,Trash_Single_Negative,response_slider_endValue,-7,single 16 negative,82781
+23445,11486015,complete,ENS,Trash_Single_Negative,response_slider_endValue,-4,single 16 negative,82781
+249610,11486015,complete,ENS,Trash_Single_Negative,response_slider_endValue,-5,single 72 negative,82781
+26503,11486198,complete,ENS,Trash_Single_Negative,response_slider_endValue,8,single 72 negative,82781
+27466,11486198,complete,ENS,Trash_Single_Negative,response_slider_endValue,8,single 16 negative,82781
+94,6089196,complete,ENS,Empty_Positive,response_slider_endValue,3,empty 16 positive,74297
+246,6089196,complete,ENS,Empty_Positive,response_slider_endValue,6,empty 72 positive,74297
+344,6054173,complete,ENS,Empty_Positive,response_slider_endValue,0,empty 16 positive,74297
+496,6054173,complete,ENS,Empty_Positive,response_slider_endValue,5,empty 72 positive,74297
+594,6020569,complete,ENS,Empty_Positive,response_slider_endValue,-2,empty 16 positive,74297
+746,6020569,complete,ENS,Empty_Positive,response_slider_endValue,7,empty 72 positive,74297
+900,5968425,complete,ENS,Empty_Positive,response_slider_endValue,5,empty 72 positive,74297
+996,5968425,complete,ENS,Empty_Positive,response_slider_endValue,7,empty 16 positive,74297
+941,5950660,complete,NSE,Empty_Positive,response_slider_endValue,8,empty 16 positive,74297
+2461,5950660,complete,NSE,Empty_Positive,response_slider_endValue,4,empty 72 positive,74297
+400,5974532,complete,NSE,Empty_Positive,response_slider_endValue,3,empty 72 positive,74297
+4961,5974532,complete,NSE,Empty_Positive,response_slider_endValue,6,empty 16 positive,74297
+650,6030824,complete,NSE,Empty_Positive,response_slider_endValue,4,empty 72 positive,74297
+7461,6030824,complete,NSE,Empty_Positive,response_slider_endValue,1,empty 16 positive,74297
+844,6055086,complete,NSE,Empty_Positive,response_slider_endValue,2,empty 16 positive,74297
+9961,6055086,complete,NSE,Empty_Positive,response_slider_endValue,4,empty 72 positive,74297
+1094,6081903,complete,NSE,Empty_Positive,response_slider_endValue,5,empty 16 positive,74297
+1246,6081903,complete,NSE,Empty_Positive,response_slider_endValue,5,empty 72 positive,74297
+942,5946414,complete,ESN,Empty_Positive,response_slider_endValue,5,empty 16 positive,74297
+2462,5946414,complete,ESN,Empty_Positive,response_slider_endValue,7,empty 72 positive,74297
+3441,5973022,complete,ESN,Empty_Positive,response_slider_endValue,0,empty 16 positive,74297
+4962,5973022,complete,ESN,Empty_Positive,response_slider_endValue,2,empty 72 positive,74297
+6501,6031610,complete,ESN,Empty_Positive,response_slider_endValue,7,empty 72 positive,74297
+7462,6031610,complete,ESN,Empty_Positive,response_slider_endValue,6,empty 16 positive,74297
+8441,6055404,complete,ESN,Empty_Positive,response_slider_endValue,-1,empty 16 positive,74297
+9962,6055404,complete,ESN,Empty_Positive,response_slider_endValue,3,empty 72 positive,74297
+150,6096174,complete,NES,Trash_Single_Positive,response_slider_endValue,3,single 72 positive,74297
+2463,6096174,complete,NES,Trash_Single_Positive,response_slider_endValue,6,single 16 positive,74297
+4001,5947992,complete,NES,Trash_Single_Positive,response_slider_endValue,3,single 72 positive,74297
+4963,5947992,complete,NES,Trash_Single_Positive,response_slider_endValue,0,single 16 positive,74297
+5941,5970293,complete,NES,Trash_Single_Positive,response_slider_endValue,5,single 16 positive,74297
+7463,5970293,complete,NES,Trash_Single_Positive,response_slider_endValue,6,single 72 positive,74297
+8442,6047614,complete,NES,Trash_Single_Positive,response_slider_endValue,4,single 16 positive,74297
+9963,6047614,complete,NES,Trash_Single_Positive,response_slider_endValue,3,single 72 positive,74297
+1501,6047614,complete,NES,Empty_Positive,response_slider_endValue,8,empty 72 positive,74297
+2464,6047614,complete,NES,Empty_Positive,response_slider_endValue,6,empty 16 positive,74297
+3442,5970293,complete,NES,Empty_Positive,response_slider_endValue,3,empty 16 positive,74297
+4964,5970293,complete,NES,Empty_Positive,response_slider_endValue,4,empty 72 positive,74297
+6502,5947992,complete,NES,Empty_Positive,response_slider_endValue,6,empty 72 positive,74297
+7464,5947992,complete,NES,Empty_Positive,response_slider_endValue,7,empty 16 positive,74297
+8443,6096174,complete,NES,Empty_Positive,response_slider_endValue,4,empty 16 positive,74297
+9964,6096174,complete,NES,Empty_Positive,response_slider_endValue,2,empty 72 positive,74297
+1502,6089196,complete,ENS,Trash_Single_Positive,response_slider_endValue,6,single 72 positive,74297
+2465,6089196,complete,ENS,Trash_Single_Positive,response_slider_endValue,7,single 16 positive,74297
+4002,6054173,complete,ENS,Trash_Single_Positive,response_slider_endValue,5,single 72 positive,74297
+4965,6054173,complete,ENS,Trash_Single_Positive,response_slider_endValue,7,single 16 positive,74297
+6503,6020569,complete,ENS,Trash_Single_Positive,response_slider_endValue,4,single 72 positive,74297
+7465,6020569,complete,ENS,Trash_Single_Positive,response_slider_endValue,3,single 16 positive,74297
+8444,5968425,complete,ENS,Trash_Single_Positive,response_slider_endValue,5,single 16 positive,74297
+9965,5968425,complete,ENS,Trash_Single_Positive,response_slider_endValue,4,single 72 positive,74297
+1503,5950660,complete,NSE,Trash_Single_Negative,response_slider_endValue,-9,single 72 negative,74297
+2466,5950660,complete,NSE,Trash_Single_Negative,response_slider_endValue,-9,single 16 negative,74297
+4003,5974532,complete,NSE,Trash_Single_Negative,response_slider_endValue,-9,single 72 negative,74297
+4966,5974532,complete,NSE,Trash_Single_Negative,response_slider_endValue,-9,single 16 negative,74297
+6504,6030824,complete,NSE,Trash_Single_Negative,response_slider_endValue,-9,single 72 negative,74297
+7466,6030824,complete,NSE,Trash_Single_Negative,response_slider_endValue,-8,single 16 negative,74297
+9001,6055086,complete,NSE,Trash_Single_Negative,response_slider_endValue,-8,single 72 negative,74297
+9966,6055086,complete,NSE,Trash_Single_Negative,response_slider_endValue,-8,single 16 negative,74297
+1150,6081903,complete,NSE,Trash_Single_Negative,response_slider_endValue,-7,single 72 negative,74297
+12461,6081903,complete,NSE,Trash_Single_Negative,response_slider_endValue,-7,single 16 negative,74297
+1504,6099951,complete,SNE,Trash_Single_Positive,response_slider_endValue,5,single 72 positive,74297
+2467,6099951,complete,SNE,Trash_Single_Positive,response_slider_endValue,0,single 16 positive,74297
+4004,6050808,complete,SNE,Trash_Single_Positive,response_slider_endValue,5,single 72 positive,74297
+4967,6050808,complete,SNE,Trash_Single_Positive,response_slider_endValue,-7,single 16 positive,74297
+6505,6026267,complete,SNE,Trash_Single_Positive,response_slider_endValue,6,single 72 positive,74297
+7467,6026267,complete,SNE,Trash_Single_Positive,response_slider_endValue,5,single 16 positive,74297
+9002,5974527,complete,SNE,Trash_Single_Positive,response_slider_endValue,5,single 72 positive,74297
+9967,5974527,complete,SNE,Trash_Single_Positive,response_slider_endValue,8,single 16 positive,74297
+10941,5936792,complete,SNE,Trash_Single_Positive,response_slider_endValue,4,single 16 positive,74297
+12462,5936792,complete,SNE,Trash_Single_Positive,response_slider_endValue,4,single 72 positive,74297
+943,5946414,complete,ESN,Trash_Single_Positive,response_slider_endValue,7,single 16 positive,74297
+2468,5946414,complete,ESN,Trash_Single_Positive,response_slider_endValue,6,single 72 positive,74297
+3443,5973022,complete,ESN,Trash_Single_Positive,response_slider_endValue,0,single 16 positive,74297
+4968,5973022,complete,ESN,Trash_Single_Positive,response_slider_endValue,1,single 72 positive,74297
+6506,6031610,complete,ESN,Trash_Single_Positive,response_slider_endValue,5,single 72 positive,74297
+7468,6031610,complete,ESN,Trash_Single_Positive,response_slider_endValue,5,single 16 positive,74297
+8445,6055404,complete,ESN,Trash_Single_Positive,response_slider_endValue,2,single 16 positive,74297
+9968,6055404,complete,ESN,Trash_Single_Positive,response_slider_endValue,5,single 72 positive,74297
+944,5974527,complete,SNE,Empty_Positive,response_slider_endValue,9,empty 16 positive,74297
+2469,5974527,complete,SNE,Empty_Positive,response_slider_endValue,10,empty 72 positive,74297
+3444,6050808,complete,SNE,Empty_Positive,response_slider_endValue,-7,empty 16 positive,74297
+4969,6050808,complete,SNE,Empty_Positive,response_slider_endValue,0,empty 72 positive,74297
+6507,6099951,complete,SNE,Empty_Positive,response_slider_endValue,3,empty 72 positive,74297
+7469,6099951,complete,SNE,Empty_Positive,response_slider_endValue,3,empty 16 positive,74297
+8446,6026267,complete,SNE,Empty_Positive,response_slider_endValue,1,empty 16 positive,74297
+9969,6026267,complete,SNE,Empty_Positive,response_slider_endValue,-5,empty 72 positive,74297
+11501,5936792,complete,SNE,Empty_Positive,response_slider_endValue,7,empty 72 positive,74297
+12463,5936792,complete,SNE,Empty_Positive,response_slider_endValue,7,empty 16 positive,74297
+1505,5946414,complete,ESN,Trash_Single_Negative,response_slider_endValue,1,single 72 negative,74297
+24610,5946414,complete,ESN,Trash_Single_Negative,response_slider_endValue,-6,single 16 negative,74297
+3445,5973022,complete,ESN,Trash_Single_Negative,response_slider_endValue,1,single 16 negative,74297
+49610,5973022,complete,ESN,Trash_Single_Negative,response_slider_endValue,-1,single 72 negative,74297
+5942,6031610,complete,ESN,Trash_Single_Negative,response_slider_endValue,-7,single 16 negative,74297
+74610,6031610,complete,ESN,Trash_Single_Negative,response_slider_endValue,-8,single 72 negative,74297
+9003,6055404,complete,ESN,Trash_Single_Negative,response_slider_endValue,-5,single 72 negative,74297
+99610,6055404,complete,ESN,Trash_Single_Negative,response_slider_endValue,5,single 16 negative,74297
+945,6099951,complete,SNE,Empty_Negative,response_slider_endValue,-6,empty 16 negative,74297
+24611,6099951,complete,SNE,Empty_Negative,response_slider_endValue,-2,empty 72 negative,74297
+4005,6050808,complete,SNE,Empty_Negative,response_slider_endValue,-7,empty 72 negative,74297
+49611,6050808,complete,SNE,Empty_Negative,response_slider_endValue,9,empty 16 negative,74297
+5943,6026267,complete,SNE,Empty_Negative,response_slider_endValue,-10,empty 16 negative,74297
+74611,6026267,complete,SNE,Empty_Negative,response_slider_endValue,-9,empty 72 negative,74297
+8447,5936792,complete,SNE,Empty_Negative,response_slider_endValue,-6,empty 16 negative,74297
+99611,5936792,complete,SNE,Empty_Negative,response_slider_endValue,2,empty 72 negative,74297
+10942,5974527,complete,SNE,Empty_Negative,response_slider_endValue,6,empty 16 negative,74297
+12464,5974527,complete,SNE,Empty_Negative,response_slider_endValue,-8,empty 72 negative,74297
+946,6089196,complete,ENS,Empty_Negative,response_slider_endValue,0,empty 16 negative,74297
+24612,6089196,complete,ENS,Empty_Negative,response_slider_endValue,0,empty 72 negative,74297
+4006,6020569,complete,ENS,Empty_Negative,response_slider_endValue,-9,empty 72 negative,74297
+49612,6020569,complete,ENS,Empty_Negative,response_slider_endValue,-9,empty 16 negative,74297
+6508,5968425,complete,ENS,Empty_Negative,response_slider_endValue,3,empty 72 negative,74297
+74612,5968425,complete,ENS,Empty_Negative,response_slider_endValue,1,empty 16 negative,74297
+8448,6054173,complete,ENS,Empty_Negative,response_slider_endValue,-7,empty 16 negative,74297
+99612,6054173,complete,ENS,Empty_Negative,response_slider_endValue,-9,empty 72 negative,74297
+78,6050808,complete,SNE,No D Events,response_slider_endValue,10,noD positive,74297
+158,6050808,complete,SNE,No D Events,response_slider_endValue,-10,noD negative,74297
+240,6099951,complete,SNE,No D Events,response_slider_endValue,0,noD negative,74297
+320,6099951,complete,SNE,No D Events,response_slider_endValue,0,noD positive,74297
+402,6026267,complete,SNE,No D Events,response_slider_endValue,2,noD positive,74297
+482,6026267,complete,SNE,No D Events,response_slider_endValue,-9,noD negative,74297
+564,5974527,complete,SNE,No D Events,response_slider_endValue,8,noD positive,74297
+644,5974527,complete,SNE,No D Events,response_slider_endValue,-10,noD negative,74297
+726,5936792,complete,SNE,No D Events,response_slider_endValue,7,noD positive,74297
+806,5936792,complete,SNE,No D Events,response_slider_endValue,-8,noD negative,74297
+781,6086199,complete,SEN,No D Events,response_slider_endValue,9,noD positive,74297
+1581,6086199,complete,SEN,No D Events,response_slider_endValue,-7,noD negative,74297
+2401,6057715,complete,SEN,No D Events,response_slider_endValue,-8,noD negative,74297
+3201,6057715,complete,SEN,No D Events,response_slider_endValue,0,noD positive,74297
+4021,6043833,complete,SEN,No D Events,response_slider_endValue,2,noD positive,74297
+4821,6043833,complete,SEN,No D Events,response_slider_endValue,-8,noD negative,74297
+5641,5968452,complete,SEN,No D Events,response_slider_endValue,7,noD positive,74297
+6441,5968452,complete,SEN,No D Events,response_slider_endValue,-8,noD negative,74297
+7261,5966351,complete,SEN,No D Events,response_slider_endValue,-8,noD negative,74297
+8061,5966351,complete,SEN,No D Events,response_slider_endValue,-1,noD positive,74297
+1506,6099951,complete,SNE,Trash_Single_Negative,response_slider_endValue,4,single 72 negative,74297
+24613,6099951,complete,SNE,Trash_Single_Negative,response_slider_endValue,7,single 16 negative,74297
+3446,6050808,complete,SNE,Trash_Single_Negative,response_slider_endValue,0,single 16 negative,74297
+49613,6050808,complete,SNE,Trash_Single_Negative,response_slider_endValue,9,single 72 negative,74297
+6509,6026267,complete,SNE,Trash_Single_Negative,response_slider_endValue,-9,single 72 negative,74297
+74613,6026267,complete,SNE,Trash_Single_Negative,response_slider_endValue,-7,single 16 negative,74297
+9004,5974527,complete,SNE,Trash_Single_Negative,response_slider_endValue,4,single 72 negative,74297
+99613,5974527,complete,SNE,Trash_Single_Negative,response_slider_endValue,4,single 16 negative,74297
+10943,5936792,complete,SNE,Trash_Single_Negative,response_slider_endValue,3,single 16 negative,74297
+12465,5936792,complete,SNE,Trash_Single_Negative,response_slider_endValue,-3,single 72 negative,74297
+947,5950660,complete,NSE,Empty_Negative,response_slider_endValue,-5,empty 16 negative,74297
+24614,5950660,complete,NSE,Empty_Negative,response_slider_endValue,-10,empty 72 negative,74297
+3447,5974532,complete,NSE,Empty_Negative,response_slider_endValue,-4,empty 16 negative,74297
+49614,5974532,complete,NSE,Empty_Negative,response_slider_endValue,-10,empty 72 negative,74297
+65010,6030824,complete,NSE,Empty_Negative,response_slider_endValue,-9,empty 72 negative,74297
+74614,6030824,complete,NSE,Empty_Negative,response_slider_endValue,-8,empty 16 negative,74297
+9005,6055086,complete,NSE,Empty_Negative,response_slider_endValue,-5,empty 72 negative,74297
+99614,6055086,complete,NSE,Empty_Negative,response_slider_endValue,-8,empty 16 negative,74297
+10944,6081903,complete,NSE,Empty_Negative,response_slider_endValue,1,empty 16 negative,74297
+12466,6081903,complete,NSE,Empty_Negative,response_slider_endValue,-2,empty 72 negative,74297
+948,6096174,complete,NES,Trash_Single_Negative,response_slider_endValue,-8,single 16 negative,74297
+24615,6096174,complete,NES,Trash_Single_Negative,response_slider_endValue,-8,single 72 negative,74297
+3448,6047614,complete,NES,Trash_Single_Negative,response_slider_endValue,-6,single 16 negative,74297
+49615,6047614,complete,NES,Trash_Single_Negative,response_slider_endValue,-4,single 72 negative,74297
+5944,5970293,complete,NES,Trash_Single_Negative,response_slider_endValue,-7,single 16 negative,74297
+74615,5970293,complete,NES,Trash_Single_Negative,response_slider_endValue,-9,single 72 negative,74297
+9006,5947992,complete,NES,Trash_Single_Negative,response_slider_endValue,-4,single 72 negative,74297
+99615,5947992,complete,NES,Trash_Single_Negative,response_slider_endValue,-8,single 16 negative,74297
+1507,5950660,complete,NSE,Trash_Single_Positive,response_slider_endValue,4,single 72 positive,74297
+24616,5950660,complete,NSE,Trash_Single_Positive,response_slider_endValue,3,single 16 positive,74297
+4007,5974532,complete,NSE,Trash_Single_Positive,response_slider_endValue,7,single 72 positive,74297
+49616,5974532,complete,NSE,Trash_Single_Positive,response_slider_endValue,7,single 16 positive,74297
+65011,6030824,complete,NSE,Trash_Single_Positive,response_slider_endValue,5,single 72 positive,74297
+74616,6030824,complete,NSE,Trash_Single_Positive,response_slider_endValue,2,single 16 positive,74297
+8449,6055086,complete,NSE,Trash_Single_Positive,response_slider_endValue,5,single 16 positive,74297
+99616,6055086,complete,NSE,Trash_Single_Positive,response_slider_endValue,4,single 72 positive,74297
+11502,6081903,complete,NSE,Trash_Single_Positive,response_slider_endValue,7,single 72 positive,74297
+12467,6081903,complete,NSE,Trash_Single_Positive,response_slider_endValue,2,single 16 positive,74297
+782,6089196,complete,ENS,No D Events,response_slider_endValue,7,noD positive,74297
+1582,6089196,complete,ENS,No D Events,response_slider_endValue,-7,noD negative,74297
+2402,5968425,complete,ENS,No D Events,response_slider_endValue,1,noD negative,74297
+3202,5968425,complete,ENS,No D Events,response_slider_endValue,5,noD positive,74297
+4022,6020569,complete,ENS,No D Events,response_slider_endValue,-7,noD negative,74297
+4822,6020569,complete,ENS,No D Events,response_slider_endValue,6,noD positive,74297
+5642,6054173,complete,ENS,No D Events,response_slider_endValue,-8,noD negative,74297
+6442,6054173,complete,ENS,No D Events,response_slider_endValue,6,noD positive,74297
+949,6086199,complete,SEN,Empty_Positive,response_slider_endValue,8,empty 16 positive,74297
+24617,6086199,complete,SEN,Empty_Positive,response_slider_endValue,9,empty 72 positive,74297
+4008,5968452,complete,SEN,Empty_Positive,response_slider_endValue,3,empty 72 positive,74297
+49617,5968452,complete,SEN,Empty_Positive,response_slider_endValue,5,empty 16 positive,74297
+5945,5966351,complete,SEN,Empty_Positive,response_slider_endValue,-1,empty 16 positive,74297
+74617,5966351,complete,SEN,Empty_Positive,response_slider_endValue,6,empty 72 positive,74297
+84410,6057715,complete,SEN,Empty_Positive,response_slider_endValue,2,empty 16 positive,74297
+99617,6057715,complete,SEN,Empty_Positive,response_slider_endValue,1,empty 72 positive,74297
+11503,6043833,complete,SEN,Empty_Positive,response_slider_endValue,1,empty 72 positive,74297
+12468,6043833,complete,SEN,Empty_Positive,response_slider_endValue,5,empty 16 positive,74297
+1508,6086199,complete,SEN,Empty_Negative,response_slider_endValue,-7,empty 72 negative,74297
+24618,6086199,complete,SEN,Empty_Negative,response_slider_endValue,-8,empty 16 negative,74297
+4009,6057715,complete,SEN,Empty_Negative,response_slider_endValue,-9,empty 72 negative,74297
+49618,6057715,complete,SEN,Empty_Negative,response_slider_endValue,-9,empty 16 negative,74297
+65012,6043833,complete,SEN,Empty_Negative,response_slider_endValue,-9,empty 72 negative,74297
+74618,6043833,complete,SEN,Empty_Negative,response_slider_endValue,-9,empty 16 negative,74297
+84411,5968452,complete,SEN,Empty_Negative,response_slider_endValue,-9,empty 16 negative,74297
+99618,5968452,complete,SEN,Empty_Negative,response_slider_endValue,-9,empty 72 negative,74297
+10945,5966351,complete,SEN,Empty_Negative,response_slider_endValue,-10,empty 16 negative,74297
+12469,5966351,complete,SEN,Empty_Negative,response_slider_endValue,-9,empty 72 negative,74297
+783,5950660,complete,NSE,No D Events,response_slider_endValue,5,noD positive,74297
+1583,5950660,complete,NSE,No D Events,response_slider_endValue,-8,noD negative,74297
+2403,5974532,complete,NSE,No D Events,response_slider_endValue,-5,noD negative,74297
+3203,5974532,complete,NSE,No D Events,response_slider_endValue,7,noD positive,74297
+4023,6030824,complete,NSE,No D Events,response_slider_endValue,-2,noD negative,74297
+4823,6030824,complete,NSE,No D Events,response_slider_endValue,6,noD positive,74297
+5643,6055086,complete,NSE,No D Events,response_slider_endValue,5,noD positive,74297
+6443,6055086,complete,NSE,No D Events,response_slider_endValue,-8,noD negative,74297
+7262,6081903,complete,NSE,No D Events,response_slider_endValue,4,noD positive,74297
+8062,6081903,complete,NSE,No D Events,response_slider_endValue,-7,noD negative,74297
+1509,6086199,complete,SEN,Trash_Single_Negative,response_slider_endValue,-7,single 72 negative,74297
+24619,6086199,complete,SEN,Trash_Single_Negative,response_slider_endValue,-5,single 16 negative,74297
+3449,6057715,complete,SEN,Trash_Single_Negative,response_slider_endValue,-7,single 16 negative,74297
+49619,6057715,complete,SEN,Trash_Single_Negative,response_slider_endValue,-9,single 72 negative,74297
+5946,6043833,complete,SEN,Trash_Single_Negative,response_slider_endValue,-9,single 16 negative,74297
+74619,6043833,complete,SEN,Trash_Single_Negative,response_slider_endValue,-9,single 72 negative,74297
+9007,5968452,complete,SEN,Trash_Single_Negative,response_slider_endValue,-7,single 72 negative,74297
+99619,5968452,complete,SEN,Trash_Single_Negative,response_slider_endValue,-9,single 16 negative,74297
+10946,5966351,complete,SEN,Trash_Single_Negative,response_slider_endValue,-7,single 16 negative,74297
+124610,5966351,complete,SEN,Trash_Single_Negative,response_slider_endValue,-9,single 72 negative,74297
+15010,6096174,complete,NES,Empty_Negative,response_slider_endValue,-9,empty 72 negative,74297
+24620,6096174,complete,NES,Empty_Negative,response_slider_endValue,-9,empty 16 negative,74297
+34410,6047614,complete,NES,Empty_Negative,response_slider_endValue,-5,empty 16 negative,74297
+49620,6047614,complete,NES,Empty_Negative,response_slider_endValue,-3,empty 72 negative,74297
+5947,5970293,complete,NES,Empty_Negative,response_slider_endValue,-6,empty 16 negative,74297
+74620,5970293,complete,NES,Empty_Negative,response_slider_endValue,-8,empty 72 negative,74297
+84412,5947992,complete,NES,Empty_Negative,response_slider_endValue,-4,empty 16 negative,74297
+99620,5947992,complete,NES,Empty_Negative,response_slider_endValue,-7,empty 72 negative,74297
+9410,5946414,complete,ESN,Empty_Negative,response_slider_endValue,-3,empty 16 negative,74297
+24621,5946414,complete,ESN,Empty_Negative,response_slider_endValue,3,empty 72 negative,74297
+40010,5973022,complete,ESN,Empty_Negative,response_slider_endValue,0,empty 72 negative,74297
+49621,5973022,complete,ESN,Empty_Negative,response_slider_endValue,-1,empty 16 negative,74297
+5948,6031610,complete,ESN,Empty_Negative,response_slider_endValue,-8,empty 16 negative,74297
+74621,6031610,complete,ESN,Empty_Negative,response_slider_endValue,-2,empty 72 negative,74297
+9008,6055404,complete,ESN,Empty_Negative,response_slider_endValue,0,empty 72 negative,74297
+99621,6055404,complete,ESN,Empty_Negative,response_slider_endValue,0,empty 16 negative,74297
+784,5946414,complete,ESN,No D Events,response_slider_endValue,-4,noD negative,74297
+1584,5946414,complete,ESN,No D Events,response_slider_endValue,5,noD positive,74297
+2404,5973022,complete,ESN,No D Events,response_slider_endValue,2,noD positive,74297
+3204,5973022,complete,ESN,No D Events,response_slider_endValue,3,noD negative,74297
+4024,6031610,complete,ESN,No D Events,response_slider_endValue,-8,noD negative,74297
+4824,6031610,complete,ESN,No D Events,response_slider_endValue,1,noD positive,74297
+5644,6055404,complete,ESN,No D Events,response_slider_endValue,5,noD positive,74297
+6444,6055404,complete,ESN,No D Events,response_slider_endValue,-8,noD negative,74297
+785,6096174,complete,NES,No D Events,response_slider_endValue,3,noD positive,74297
+1585,6096174,complete,NES,No D Events,response_slider_endValue,-9,noD negative,74297
+2405,6047614,complete,NES,No D Events,response_slider_endValue,5,noD positive,74297
+3205,6047614,complete,NES,No D Events,response_slider_endValue,1,noD negative,74297
+4025,5970293,complete,NES,No D Events,response_slider_endValue,-4,noD positive,74297
+4825,5970293,complete,NES,No D Events,response_slider_endValue,-9,noD negative,74297
+5645,5947992,complete,NES,No D Events,response_slider_endValue,-2,noD negative,74297
+6445,5947992,complete,NES,No D Events,response_slider_endValue,0,noD positive,74297
+9411,6043833,complete,SEN,Trash_Single_Positive,response_slider_endValue,7,single 16 positive,74297
+24622,6043833,complete,SEN,Trash_Single_Positive,response_slider_endValue,6,single 72 positive,74297
+34411,6086199,complete,SEN,Trash_Single_Positive,response_slider_endValue,7,single 16 positive,74297
+49622,6086199,complete,SEN,Trash_Single_Positive,response_slider_endValue,7,single 72 positive,74297
+65013,6057715,complete,SEN,Trash_Single_Positive,response_slider_endValue,5,single 72 positive,74297
+74622,6057715,complete,SEN,Trash_Single_Positive,response_slider_endValue,5,single 16 positive,74297
+9009,5966351,complete,SEN,Trash_Single_Positive,response_slider_endValue,6,single 72 positive,74297
+99622,5966351,complete,SEN,Trash_Single_Positive,response_slider_endValue,1,single 16 positive,74297
+10947,5968452,complete,SEN,Trash_Single_Positive,response_slider_endValue,7,single 16 positive,74297
+124611,5968452,complete,SEN,Trash_Single_Positive,response_slider_endValue,2,single 72 positive,74297
+15011,6089196,complete,ENS,Trash_Single_Negative,response_slider_endValue,-8,single 72 negative,74297
+24623,6089196,complete,ENS,Trash_Single_Negative,response_slider_endValue,-9,single 16 negative,74297
+34412,6054173,complete,ENS,Trash_Single_Negative,response_slider_endValue,-9,single 16 negative,74297
+49623,6054173,complete,ENS,Trash_Single_Negative,response_slider_endValue,-8,single 72 negative,74297
+5949,6020569,complete,ENS,Trash_Single_Negative,response_slider_endValue,-7,single 16 negative,74297
+74623,6020569,complete,ENS,Trash_Single_Negative,response_slider_endValue,-5,single 72 negative,74297
+84413,5968425,complete,ENS,Trash_Single_Negative,response_slider_endValue,2,single 16 negative,74297
+99623,5968425,complete,ENS,Trash_Single_Negative,response_slider_endValue,1,single 72 negative,74297
